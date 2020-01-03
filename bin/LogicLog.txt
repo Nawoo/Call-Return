@@ -1,0 +1,12 @@
+Time2019-12-17 17:15:10
+admin: getAllStudents
+   Result: 모든학생정보가 보여집니다..
+Time2019-12-17 17:15:10
+admin: getAllCourses
+   Result: 모든과목정보가 보여집니다..
+Time2019-12-17 17:15:17
+admin: getRegisteredStudents(CID=12345, Section=)
+   Result: 해당 과목을  등록한 학생정보가 보여집니다..
+Time2019-12-17 17:15:20
+admin: getRegisteredStudents(CID=23456, Section=)
+   Result: 해당 과목을  등록한 학생정보가 보여집니다..

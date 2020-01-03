@@ -1,0 +1,12 @@
+Time2019-12-17 17:15:10
+admin: getAllStudents
+   Result: 모든학생정보를 불러옵니다...
+Time2019-12-17 17:15:10
+admin: getAllCourses
+   Result: 모든과목정보를 불러옵니다...
+Time2019-12-17 17:15:17
+: getCourseRecord(CID=12345
+   Result: 해당과목을 불러옵니다
+Time2019-12-17 17:15:20
+: getCourseRecord(CID=23456
+   Result: 해당과목을 불러옵니다
